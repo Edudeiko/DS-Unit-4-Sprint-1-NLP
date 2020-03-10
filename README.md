@@ -1,7 +1,5 @@
 # DS-Unit-4-Sprint-1-NLP
 
-Hello World!!
-
 Hi Everyone! I'll be your instructor for Unit 4. I hope you all are excited to learn about Natural Language Processing and Neural Networks!
 
 Please fork the repo for this sprint: <https://github.com/LambdaSchool/DS-Unit-4-Sprint-1-NLP>
@@ -31,3 +29,5 @@ To get the sprint environment setup:
 8. Deactivate your conda environment and launch JupyterLab. You should know see "U4-S1-NLP (Python3)" in the list of available kernels on launch screen.
 
 I look forward to working with you all again! If you run into any issues getting your conda environment setup, I'll be available on Slack this evening to help.
+
+<https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533>
