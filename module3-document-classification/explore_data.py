@@ -101,7 +101,7 @@ def plot_frequency_distribution_of_ngrams(sample_texts,
     counts = list(all_counts)[:num_ngrams]
 
     idx = np.arange(num_ngrams)
-    plt.figure(figsize=(14,6))
+    plt.figure(figsize=(14, 6))
     plt.bar(idx, counts, width=0.8, color='b')
     plt.xlabel('N-grams')
     plt.ylabel('Frequencies')
